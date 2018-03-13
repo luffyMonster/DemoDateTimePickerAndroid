@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo DatePicker - TimePicker </string>
+    <string name="timePicker">Time Picker</string>
+    <string name="datePicker">Date Picker</string>
+    <string name="open_timePicker">Open Time Picker Fragment</string>
+    <string name="open_datePicker">Open Time Picker Fragment</string>
+</resources>
